@@ -6,6 +6,6 @@ rafik
 <title>
 <haed>
 <body>
-<\bgcolor=006666>
+</bgcolor=006666>
 <body>
 </html>
