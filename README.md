@@ -1,13 +1,14 @@
 # rafik
-<html>
-<haed>
-<title>
-rafik
-<title>
-<haed>
-<body>
-  <h3>aroo</h3>
-   <h3>aroo</h3>
-   <h3>aroo</h3>
-<body>
-</html>
+# AR 1
+## RAFIK 2
+### 00 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
